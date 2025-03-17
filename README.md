@@ -1,2 +1,2 @@
 # Projeto facul
- primeiro repositorio
+ Primeiro repositório
